@@ -65,7 +65,7 @@ A real-time paper-trading platform inspired by Robinhood.
 
 Built with: React, Redux, Flask, WebSockets, PostgreSQL
 
-### Features: Live stock prices, real-time portfolio updates, scheduled/immediate orders, comprehensive financial analytics, dynamic UI
+Features: Live stock prices, real-time portfolio updates, scheduled/immediate orders, comprehensive financial analytics, dynamic UI
 
 🔸 Cash With Friends – GitHub
 Collaborative expense-splitting web application.
